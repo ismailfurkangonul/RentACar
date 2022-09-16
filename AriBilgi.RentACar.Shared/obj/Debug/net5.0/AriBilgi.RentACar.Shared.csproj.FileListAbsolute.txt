@@ -1,0 +1,12 @@
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Shared\bin\Debug\net5.0\AriBilgi.RentACar.Shared.deps.json
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Shared\bin\Debug\net5.0\AriBilgi.RentACar.Shared.dll
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Shared\bin\Debug\net5.0\AriBilgi.RentACar.Shared.pdb
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Shared\obj\Debug\net5.0\AriBilgi.RentACar.Shared.csproj.AssemblyReference.cache
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Shared\obj\Debug\net5.0\AriBilgi.RentACar.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Shared\obj\Debug\net5.0\AriBilgi.RentACar.Shared.AssemblyInfoInputs.cache
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Shared\obj\Debug\net5.0\AriBilgi.RentACar.Shared.AssemblyInfo.cs
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Shared\obj\Debug\net5.0\AriBilgi.RentACar.Shared.csproj.CoreCompileInputs.cache
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Shared\obj\Debug\net5.0\AriBilgi.RentACar.Shared.dll
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Shared\obj\Debug\net5.0\refint\AriBilgi.RentACar.Shared.dll
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Shared\obj\Debug\net5.0\AriBilgi.RentACar.Shared.pdb
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Shared\obj\Debug\net5.0\ref\AriBilgi.RentACar.Shared.dll

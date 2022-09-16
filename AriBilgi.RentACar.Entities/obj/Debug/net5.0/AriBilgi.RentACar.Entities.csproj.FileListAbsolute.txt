@@ -1,0 +1,15 @@
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\bin\Debug\net5.0\AriBilgi.RentACar.Entities.deps.json
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\bin\Debug\net5.0\AriBilgi.RentACar.Entities.dll
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\bin\Debug\net5.0\AriBilgi.RentACar.Entities.pdb
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\bin\Debug\net5.0\AriBilgi.RentACar.Shared.dll
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\bin\Debug\net5.0\AriBilgi.RentACar.Shared.pdb
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\obj\Debug\net5.0\AriBilgi.RentACar.Entities.csproj.AssemblyReference.cache
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\obj\Debug\net5.0\AriBilgi.RentACar.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\obj\Debug\net5.0\AriBilgi.RentACar.Entities.AssemblyInfoInputs.cache
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\obj\Debug\net5.0\AriBilgi.RentACar.Entities.AssemblyInfo.cs
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\obj\Debug\net5.0\AriBilgi.RentACar.Entities.csproj.CoreCompileInputs.cache
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\obj\Debug\net5.0\AriBilgi.RentACar.Entities.csproj.CopyComplete
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\obj\Debug\net5.0\AriBilgi.RentACar.Entities.dll
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\obj\Debug\net5.0\refint\AriBilgi.RentACar.Entities.dll
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\obj\Debug\net5.0\AriBilgi.RentACar.Entities.pdb
+E:\ECOMMERCE\AriBilgi.RentACar\AriBilgi.RentACar.Entities\obj\Debug\net5.0\ref\AriBilgi.RentACar.Entities.dll

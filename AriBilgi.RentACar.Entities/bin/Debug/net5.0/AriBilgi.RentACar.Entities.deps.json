@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AriBilgi.RentACar.Entities/1.0.0": {
+        "dependencies": {
+          "AriBilgi.RentACar.Shared": "1.0.0"
+        },
+        "runtime": {
+          "AriBilgi.RentACar.Entities.dll": {}
+        }
+      },
+      "AriBilgi.RentACar.Shared/1.0.0": {
+        "runtime": {
+          "AriBilgi.RentACar.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AriBilgi.RentACar.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AriBilgi.RentACar.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
